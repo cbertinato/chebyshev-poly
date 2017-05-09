@@ -2,7 +2,7 @@
 A MATLAB class for symbolic and numeric manipulation of Chebyshev polynomials.
 
 ## Usage
-See the wiki for usage and examples.
+See the [wiki](https://github.com/cbertinato/chebyshev-poly/wiki) for usage and examples.
 
 ## Requirements
 MATLAB Symbolic Math Toolbox
